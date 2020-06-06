@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/home/neighbourhood/sorting/src/main/java/io/neolab.internship/sorting/Main.java">
+<error line="8" column="8" severity="warning" message="Unused import - java.util.Collections." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="/home/neighbourhood/sorting/src/main/java/io/neolab.internship/sorting/package-info.java">
+</file>
+<file name="/home/neighbourhood/sorting/src/main/java/io/neolab.internship/sorting/sorter/ArrayHandler.java">
+</file>
+<file name="/home/neighbourhood/sorting/src/main/java/io/neolab.internship/sorting/sorter/package-info.java">
+</file>
+</checkstyle>

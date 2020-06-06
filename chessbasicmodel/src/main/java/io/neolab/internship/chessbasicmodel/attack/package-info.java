@@ -1,0 +1,1 @@
+package io.neolab.internship.chessbasicmodel.attack;

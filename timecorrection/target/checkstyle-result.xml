@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/home/neighbourhood/timecorrection/src/main/java/io/neolab/internship/timecorrection/Main.java">
+</file>
+<file name="/home/neighbourhood/timecorrection/src/main/java/io/neolab/internship/timecorrection/package-info.java">
+</file>
+<file name="/home/neighbourhood/timecorrection/src/main/java/io/neolab/internship/timecorrection/time/TimeHandler.java">
+<error line="7" column="1" severity="warning" message="Utility classes should not have a public or default constructor." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="19" column="70" severity="warning" message="Expected @throws tag for &apos;TimeValidFormatException&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/home/neighbourhood/timecorrection/src/main/java/io/neolab/internship/timecorrection/time/TimeValidFormatException.java">
+</file>
+<file name="/home/neighbourhood/timecorrection/src/main/java/io/neolab/internship/timecorrection/time/package-info.java">
+</file>
+</checkstyle>
