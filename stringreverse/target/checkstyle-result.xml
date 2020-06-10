@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/home/neighbourhood/stringreverse/src/main/java/io/neolab/internship/stringreverse/Main.java">
+</file>
+<file name="/home/neighbourhood/stringreverse/src/main/java/io/neolab/internship/stringreverse/package-info.java">
+</file>
+<file name="/home/neighbourhood/stringreverse/src/main/java/io/neolab/internship/stringreverse/handler/StringHandler.java">
+</file>
+<file name="/home/neighbourhood/stringreverse/src/main/java/io/neolab/internship/stringreverse/handler/package-info.java">
+</file>
+</checkstyle>
